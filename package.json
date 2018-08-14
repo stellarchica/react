@@ -1,0 +1,22 @@
+{
+  "name": "reacthomework",
+  "version": "1.0.0",
+  "description": "homework",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/stellarchica/react.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/stellarchica/react/issues"
+  },
+  "homepage": "https://github.com/stellarchica/react#readme",
+  "dependencies": {
+    "react": "^16.4.2"
+  }
+}
