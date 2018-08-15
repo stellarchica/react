@@ -1,8 +1,8 @@
 import React, { Component } from "react";
-import Navbar from "./components/Navbar/Navbar.js";
-import Modal from "./components/Modal/Modal.js";
-import ClickCard from "./components/ClickCard/ClickCard.js";
-import Footer from "./components/Footer/Footer.js";
+import Navbar from "./components/navbar/navbar.js";
+import Modal from "./components/modal/modal.js";
+import ClickCard from "./components/click/click.js";
+import Footer from "./components/footer/footer.js";
 import cards from "./cards.json";
 
 import "./index.css";
@@ -40,7 +40,7 @@ class App extends Component {
 
       } 
       if (this.state.score === 11) {
-        this.setState({footerText: "You Won! Play again?"})
+        this.setState({footerText: "You won! Play again?"})
         this.setState({score: 0, clickedCards: [], cards: cards})
         setTimeout(() => {
           this.setState({footerText: ""})

@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/stellarchica/react#readme",
   "dependencies": {
-    "react": "^16.4.2"
+    "react": "^16.4.2",
+    "yarn-install": "^1.0.0"
   }
 }
