@@ -1,62 +1,62 @@
 [
     {
       "id": 1,
-      "name": "",
-      "image": ""
+      "name": "michael",
+      "image": "src/images/michael.jpg"
     },
     {
       "id": 2,
-      "name": "",
-      "image": ""
+      "name": "pam",
+      "image": "src/images/pam.jpg"
     },
     {
       "id": 3,
-      "name": "",
-      "image": ""
+      "name": "jim",
+      "image": "src/images/jim.jpg"
     },
     {
       "id": 4,
-      "name": "",
-      "image": ""
+      "name": "dwight",
+      "image": "src/images/dwight.jpg"
     },
     {
       "id": 5,
-      "name": "",
-      "image": ""
+      "name": "angela",
+      "image": "src/images/angela.jpg"
     },
     {
       "id": 6,
-      "name": "",
-      "image": ""
+      "name": "kevin",
+      "image": "src/images/kevin.jpg"
     },
     {
       "id": 7,
-      "name": "",
-      "image": ""
+      "name": "kelly",
+      "image": "src/images/kelly.jpg"
     },
     {
       "id": 8,
-      "name": "",
-      "image": ""
+      "name": "erin",
+      "image": "src/images/erin.jpg"
     },
     {
       "id": 9,
-      "name": "",
-      "image": ""
+      "name": "andy",
+      "image": "src/images/erin.jpg"
     },
     {
       "id": 10,
-      "name": "",
-      "image": ""
+      "name": "phyllis",
+      "image": "src/images/phyllis.jpg"
     },
     {
       "id": 11,
-      "name": "",
-      "image": ""
+      "name": "meredith",
+      "image": "src/images/meredith.jpg"
     },
     {
       "id": 12,
-      "name": "",
-      "image": ""
+      "name": "toby",
+      "image": "src/images/toby.jpg"
     }
   ]
