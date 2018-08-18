@@ -1,3 +1,6 @@
+// would have images appear!
+// something wrong with import variable? not recognizing
+
 var michael = [
     {
       "id": 1,

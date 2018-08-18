@@ -1,11 +1,14 @@
-/* h4 {
+/* not all style changes catching */
+
+h1 {
     font-family: Avenir;
+    font-size: 24px;
 }
 
 li {
     font-family: Avenir;
 }
 
-.instructions {
+/* a {
     font-family: Avenir;
 } */

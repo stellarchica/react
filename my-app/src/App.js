@@ -35,9 +35,9 @@ class App extends Component {
 
     if (this.state.clickedCards.includes(id)) {
       this.setState({score: 0, clickedCards: []})
-
       pageBody.classList.add("shakeWrapper")
       this.setState({footerText: "You picked that already! Start over."})
+      // this doesn't happen
       setTimeout(() => {
         pageBody.classList.remove("shakeWrapper");
       }, 500);
@@ -51,6 +51,8 @@ class App extends Component {
       if (this.state.score >= this.state.topScore) {
         this.setState({topScore: this.state.score + 1})
 
+
+        // this doesn't happen
       } 
       if (this.state.score === 11) {
         this.setState({footerText: "You won! Play again?"})
@@ -96,7 +98,7 @@ class App extends Component {
     return (
       <div className="container-fluid">
         <Navbar score={this.state.score} topScore={this.state.topScore}/>
-        {/* <Modal /> */}
+        <Modal />
         <br />
         <div className="container row cardWrapper">
           {this.renderCards(this.state.cards)}

@@ -4,13 +4,13 @@ ol {
 }
 
 .instructionsModal {
-	width: 100%;
-	height: 200px;
+	width: 98%;
+	height: 135px;
     z-index: 1;
     position: absolute;
     background: rgba(7, 41, 155, 0.904);
     color: white;
-    padding-top: 0;
+    /* padding-top: 0; */
 }
 
 h4, li {

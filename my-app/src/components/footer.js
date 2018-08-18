@@ -1,3 +1,5 @@
+// style changes not catching in css files
+
 import React from "react";
 
 function Footer(props) {
